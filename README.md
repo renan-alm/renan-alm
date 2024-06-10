@@ -6,4 +6,4 @@
 
 
 ## Languages and Tools
-ansible linux python docker terraform azure java
+[![My Skills](https://skillicons.dev/icons?i=linux,python,docker,terraform,azure,java)](https://skillicons.dev) 

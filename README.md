@@ -1,3 +1,5 @@
+## About me
+
 🇧🇷 Brazilian Developer
 
 🇸🇪 Based in Stockholm 
@@ -6,14 +8,11 @@
 
 
 ## Languages and Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=githubactions,jenkins,java,linux,redhat,maven,azure,gcp,terraform,kubernetes,docker,go,github,gitlab,bitbucket,git,python,vscode,bash,vim,idea,pycharm,obsidian,elasticsearch,grafana,prometheus,matlab,arduino,postman,debian,&perline=6&theme=light" />
+    <img src="https://skillicons.dev/icons?i=githubactions,jenkins,java,linux,redhat,maven,azure,gcp,terraform,kubernetes,docker,go,github,gitlab,bitbucket,git,python,vscode,bash,vim,idea,pycharm,obsidian,elasticsearch,grafana,prometheus,matlab,arduino,postman,debian,&perline=6&theme=light" />
+
   </a>
 </p>

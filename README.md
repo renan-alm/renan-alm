@@ -7,6 +7,6 @@
 
 ## Languages and Tools
 
-  [![My Skills](https://skillicons.dev/icons?i=githubactions,jenkins,java,linux,redhat,maven,azure,gcp,terraform,kubernetes,docker,go,github,gitlab,bitbucket,git,python,vscode,bash,vim,idea,pycharm,obsidian,elasticsearch,grafana,prometheus,matlab,arduino&perline=6&theme=light)]
+  [![My Skills](https://skillicons.dev/icons?i=githubactions,jenkins,java,linux,redhat,maven,azure,gcp,terraform,kubernetes,docker,go,github,gitlab,bitbucket,git,python,vscode,bash,vim,idea,pycharm,obsidian,elasticsearch,grafana,prometheus,matlab,arduino,postman,debian,&perline=6&theme=light)]
 
-debian
+

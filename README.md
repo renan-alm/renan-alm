@@ -1,16 +1,21 @@
-## About me
+# Hey There 👋
+I'm a DevOps Enginner who specializes in helping teams adopt Continuous Integration and Continuous Deployment (CI/CD) practices. Apart of that, I'm a true believer that Developer Experience (DX) is the key to producing quality code and running efficient organisations. 
 
-🇧🇷 Brazilian Developer
+## Furthermore
 
-🇸🇪 Based in Stockholm 
+🇧🇷 Brazilian developer currently based in Stockholm 🇸🇪 
 
-👀 I'm interested in DevOps, Automation, and Infrastructure as Code.
+🎓 Graduated in Computer Engineering with MSc in Electrical Engineering
+
+🎯 My hobbies include coding, gym-ing, dancing, playing video games, DIY, wrestling, among others 😅
 
 
-## Languages and Tools
+👀 I'm interested in DevOps culture, Automation, and Infrastructure as Code (IaC).
 
+
+## Main languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=githubactions,jenkins,java,linux,redhat,maven,azure,gcp,terraform,kubernetes,docker,go,github,gitlab,bitbucket,git,python,vscode,bash,vim,idea,pycharm,obsidian,elasticsearch,grafana,prometheus,matlab,arduino,postman,debian,&perline=6&theme=light" />
+    <img src="https://skillicons.dev/icons?i=githubactions,jenkins,java,terraform,ansible,azure,gcp,linux,redhat,debian,maven,kubernetes,docker,git,github,gitlab,bitbucket,python,vscode,bash,go,vim,idea,pycharm,obsidian,elasticsearch,grafana,prometheus,matlab,postman,arduino,&perline=6&theme=light" />
   </a>
 </p>

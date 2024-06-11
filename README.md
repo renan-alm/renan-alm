@@ -9,7 +9,6 @@ I'm a DevOps Enginner who specializes in helping teams adopt Continuous Integrat
 
 🎯 My hobbies include coding, gym-ing, dancing, playing video games, DIY, wrestling, among others 😅
 
-
 👀 I'm interested in DevOps culture, Automation, and Infrastructure as Code (IaC).
 
 

@@ -1,5 +1,6 @@
 # Hi there 👋
-I'm a DevOps Engineer and IT Evangelist. I'm a true believer that Developer Experience (DX) is the key to producing quality code and running efficient organizations. 
+I'm a DevOps Engineer and IT Evangelist. \
+I truly believe that a great Developer Experience (DX) is essential for creating quality code and running efficient organizations
 
 <!--
 - 🔭 I’m currently working on ...
@@ -11,11 +12,11 @@ I'm a DevOps Engineer and IT Evangelist. I'm a true believer that Developer Expe
 
 🇧🇷 Brazilian developer currently based in Stockholm 🇸🇪 
 
-🎓 Graduated in Computer Engineering with MSc in Electrical Engineering
+🎓 BSc in Computer Engineering and an MSc in Electrical Engineering
 
-🎯 My hobbies include coding, gym-ing, dancing, playing video games, DIY, wrestling, among others 😅
+🎯 Hobbies including coding, Brazilian jiu-jitsu, DYI, playing video games, dancing, among others 😅
 
-👀 I'm interested in DevOps culture, Automation, and Infrastructure as Code (IaC).
+👀 I'm interested in DevOps culture, Dev Experience, Automation, and Infrastructure as Code (IaC).
 
 ## Main languages and Tools
 <p align="center">

@@ -18,11 +18,12 @@ I truly believe that a great Developer Experience (DX) is essential for creating
 
 👀 I'm interested in DevOps culture, Dev Experience, Automation, and Infrastructure as Code (IaC).
 
-## A little bit on my toolbox ...
+## In my toolbox ...
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=githubactions,jenkins,ansible,terraform,azure,gcp,linux,redhat,debian,maven,kubernetes,docker,git,github,gitlab,bitbucket,python,java,go,vscode,bash,vim,idea,pycharm,obsidian,elasticsearch,grafana,prometheus,matlab,postman,arduino,&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=githubactions,jenkins,ansible,terraform,azure,gcp,linux,redhat,debian,maven,kubernetes,docker,git,github,gitlab,bitbucket,python,java,go,vscode,bash,vim,idea,pycharm,obsidian,elasticsearch,grafana,prometheus,matlab,postman,arduino,&perline=14&theme=light" />
   </a>
 </p>
+
 
 

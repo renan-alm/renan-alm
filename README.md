@@ -8,7 +8,8 @@ I'm a passionate DevOps Engineer and IT Evangelist with a keen interest in DevEx
 - 🎓 BSc in Computer Engineering and an MSc in Electrical Engineering
 - 🎯 Hobbies including coding, Brazilian jiu-jitsu, DYI, playing video games, dancing, among others 😅
 - 👀 I'm interested in DevOps culture, Dev Experience, Automation, and Infrastructure as Code (IaC).
-- 📫 How to reach me: [renan-alm@github.com](mailto:renan-alm@github.com) 
+- 📫 How to reach me: [renan-alm@github.com](mailto:renan-alm@github.com)
+- Check out my Sessionize profile: https://sessionize.com/renan-alm
 
 ## A little bit on my toolbox ...
 

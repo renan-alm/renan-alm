@@ -18,3 +18,11 @@ I'm a passionate DevOps Engineer and IT Evangelist with a keen interest in DevEx
     <img src="https://skillicons.dev/icons?i=githubactions,jenkins,ansible,terraform,azure,gcp,linux,redhat,debian,maven,kubernetes,docker,git,github,gitlab,bitbucket,python,java,go,vscode,bash,vim,idea,pycharm,obsidian,elasticsearch,grafana,prometheus,matlab,postman,arduino,&perline=14&theme=light" />
   </a>
 </p>
+
+## GitHub Certifications
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="admin_badge.png" alt="Admin Badge" width="200" height="200">
+  <img src="actions_badge.png" alt="Actions Badge" width="200" height="200">
+  <img src="foundations_badge.png" alt="Foundations Badge" width="200" height="200">
+</div>

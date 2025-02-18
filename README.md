@@ -22,7 +22,12 @@ I'm a passionate DevOps Engineer and IT Evangelist with a keen interest in DevEx
 ## GitHub Certifications
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="img/admin_badge.png" alt="Admin Badge" width="200" height="200">
-  <img src="img/actions_badge.png" alt="Actions Badge" width="200" height="200">
-  <img src="img/foundations_badge.png" alt="Foundations Badge" width="200" height="200">
+  <img src="admin_badge.png" alt="Admin Badge" width="200" height="200">
+  <img src="actions_badge.png" alt="Actions Badge" width="200" height="200">
 </div>
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="foundations_badge.png" alt="Foundations Badge" width="200" height="200">
+  <img src="sales_badge.png" alt="Sales Badge" width="200" height="200">
+</div>
+

@@ -1,17 +1,17 @@
-# Hi there 👋
+# About me 👋
 
-I'm a passionate DevOps Engineer and IT Evangelist with a keen interest in DevEx and learning new technologies. I believe that a great Developer Experience is essential for creating quality code and running efficient organizations.
+I'm a passionate DevOps Engineer interested in DevEx and CICD. <br>
+I believe that a great Developer Experience is essential for creating quality code and running efficient organizations.
 
-## Furthermore
-
-- 🇧🇷 Brazilian developer currently based in Stockholm 🇸🇪 
 - 🎓 BSc in Computer Engineering and an MSc in Electrical Engineering
-- 🎯 Hobbies including coding, Brazilian jiu-jitsu, DYI, playing video games, dancing, among others 😅
 - 👀 I'm interested in DevOps culture, Dev Experience, Automation, and Infrastructure as Code (IaC).
-- 📫 How to reach me: [renan-alm@github.com](mailto:renan-alm@github.com)
-- Check out my Sessionize profile: https://sessionize.com/renan-alm
+- 🎯 Hobbies including coding, Brazilian jiu-jitsu, DYI, playing video games, dancing, among others 😅
+- 🇧🇷 Made in Brazil - Based in Sweden 🇸🇪
+- 🎤 [My Sessionize Profile](https://sessionize.com/renan-alm) 
+- 💼 [My LinkedIn Profile](https://www.linkedin.com/in/renan-almeida-93501621/) 
+- 📫 How to reach me: [renan-alm@github.com](mailto:renan-alm@github.com) 
 
-## GitHub Certifications
+# GitHub Certifications
 
 <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
   <img src="img/admin_badge.png" alt="Admin Badge" width="200" height="200">
@@ -21,7 +21,7 @@ I'm a passionate DevOps Engineer and IT Evangelist with a keen interest in DevEx
   <img src="img/sales_badge.png" alt="Sales Badge" width="200" height="200">
 </div>
 
-## A little bit on my toolbox ...
+# My tech stack (Some of it) 
 
 <p align="center">
   <a href="https://skillicons.dev">
